@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="b58a0d7d-1b4e-46af-bba6-e36f7b262af7" ChangeDateTime="12/04/2018 09:05:46">
+    <Property Name="ElementName" Value="[dbo].[Region]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Regions]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f60918ed-6009-4237-8f7e-c96d7e06c3ff" ChangeDateTime="12/04/2018 13:02:32">
+    <Property Name="ElementName" Value="[dbo].[Categories]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="&quot;Category&quot;" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1a48eda7-970e-4ef0-8642-945de8bbda18" ChangeDateTime="12/04/2018 13:05:59">
+    <Property Name="ElementName" Value="[dbo].[Category]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="&quot;Categories&quot;" />
+  </Operation>
+</Operations>
